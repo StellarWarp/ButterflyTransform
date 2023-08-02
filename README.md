@@ -10,6 +10,9 @@ Unity ECS Demo of Orbit Mechanics
 
 ![image](https://github.com/StellarWarp/OrbitSandBox/assets/49562703/829d22aa-8bc1-4302-bf50-42bfc96130f4)
 
+![image](https://github.com/StellarWarp/OrbitSandBox/assets/49562703/9d7c49d0-94fc-4b76-9442-547b59d638d6)
+
+
 Demo Download see https://github.com/StellarWarp/OrbitSnadBox/releases
 
 Operation guide:
@@ -17,3 +20,6 @@ Operation guide:
 - Hold/release space to quickly toggle placement/selection mode
 - In the selection mode, left-click to frame the object, and a circle will appear after the frame selection, which can be dragged to move the object
 - Left click to place objects in placement mode
+
+
+
