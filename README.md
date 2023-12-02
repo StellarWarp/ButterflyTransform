@@ -46,6 +46,9 @@ Unity ECS Demo of Orbit Mechanics
 
 ![image](https://github.com/StellarWarp/OrbitSandBox/assets/49562703/829d22aa-8bc1-4302-bf50-42bfc96130f4)
 
+![image](https://github.com/StellarWarp/ButterflyTransform/assets/49562703/871fe27c-16a0-42bb-b216-479892186a81)
+
+
 
 ### Orbit Maneuver
 
@@ -57,12 +60,7 @@ Unity ECS Demo of Orbit Mechanics
 
 - Lambert solver implemented 
 
-
-
-
-
-
-
+![image](https://github.com/StellarWarp/ButterflyTransform/assets/49562703/8df93e8c-44b2-4cf9-9a33-6dded8d63cc1)
 
 
 ## Unit Control
