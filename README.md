@@ -19,7 +19,7 @@ Unity ECS Demo of Orbit Mechanics
 - Multiple material supported
 - Dynamic material supported
 
-![image](https://github.com/StellarWarp/OrbitSandBox/assets/49562703/4ffd5f58-d7fd-453f-8160-6a76b7d43a5f)
+![image](https://github.com/StellarWarp/ButterflyTransform/assets/49562703/6fc4b8fb-9aab-4626-9e16-33d1c57a8954)
 
 
 
@@ -45,8 +45,6 @@ Unity ECS Demo of Orbit Mechanics
 ![image](https://github.com/StellarWarp/OrbitSandBox/assets/49562703/3e68554d-e915-4791-8b9d-c76998ecacfa)
 
 ![image](https://github.com/StellarWarp/OrbitSandBox/assets/49562703/829d22aa-8bc1-4302-bf50-42bfc96130f4)
-
-![image](https://github.com/StellarWarp/ButterflyTransform/assets/49562703/871fe27c-16a0-42bb-b216-479892186a81)
 
 
 
