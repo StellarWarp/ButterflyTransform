@@ -2,6 +2,8 @@
 
 Unity ECS Demo of Orbit Mechanics
 
+The current code and resource is hosted on PlasticHub
+
 ![image](https://github.com/StellarWarp/OrbitSandBox/assets/49562703/9d7c49d0-94fc-4b76-9442-547b59d638d6)
 
 ![image](https://github.com/StellarWarp/OrbitSandBox/assets/49562703/023d67bd-584a-49fb-a7d9-8be537d321fb)
